@@ -1,8 +1,8 @@
 ![logo](https://res.cloudinary.com/snyk/image/upload/v1468845259/logo/snyk-dog.svg)
 ## Snyk: php POC
 ***
-
 This POC app will print a JSON formatted dependencies tree for a composer.json file. 
+
 ### Usage
 ##### install php & composer
 ##### prepare target app: 
